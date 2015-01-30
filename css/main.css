@@ -26,6 +26,7 @@ a{
 
 nav{
   background-color: hotpink;
+  text-align:center;
 }
 
 nav ul{
@@ -42,4 +43,6 @@ nav a{
   display:inline-block;
   padding: 0.5em 0.75em;
   background-color: magenta;
+  color:white;
+  text-decoration: none;
 }
